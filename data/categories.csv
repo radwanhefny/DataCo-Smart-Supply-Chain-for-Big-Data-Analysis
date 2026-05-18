@@ -1,0 +1,40 @@
+category_id,category_name,department_id,department_name
+1,Cardio Equipment,2,Fitness
+2,Strength Training,4,Apparel
+3,Shop By Sport,5,Golf
+4,Golf Apparel,5,Golf
+5,Slides,3,Footwear
+6,Women's Apparel,3,Footwear
+7,Men's Footwear,3,Footwear
+8,Golf Bags & Carts,6,Outdoors
+9,Golf Balls,6,Outdoors
+10,Camping & Hiking,7,Fan Shop
+11,Cleats,2,Fitness
+12,Consumer Electronics,10,Technology
+13,Cameras,10,Technology
+14,Computers,10,Technology
+15,Fitness Accessories,2,Fitness
+16,Men's Clothing,5,Golf
+17,Golf Accessories,6,Outdoors
+18,Golf Gloves,6,Outdoors
+19,Women's Clothing,4,Apparel
+20,Crafts,4,Apparel
+21,Soccer,5,Golf
+22,Children's Clothing,4,Apparel
+23,Baby,4,Apparel
+24,Hunting & Shooting,7,Fan Shop
+25,Books,8,Book Shop
+26,DVDs,9,Discs Shop
+27,CDs,9,Discs Shop
+28,Basketball,2,Fitness
+29,Garden,6,Outdoors
+30,Pet Supplies,11,Pet Shop
+31,Health and Beauty,12,Health and Beauty
+32,Music,9,Discs Shop
+33,Video Games,9,Discs Shop
+34,Indoor/Outdoor Games,2,Fitness
+35,Golf Shoes,6,Outdoors
+36,Women's Golf Clubs,6,Outdoors
+37,Men's Golf Clubs,6,Outdoors
+38,Toys,7,Fan Shop
+39,Water Sports,7,Fan Shop
